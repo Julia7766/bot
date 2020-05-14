@@ -15,7 +15,7 @@ def chat_bot():
         print('Здравствуй! Чем могу быть полезен?')
         print('Могу решить ваши любые юридические вопросы и предоставить данные!')
         if get_user != user_client():
-            break
+           # break
 
 
 #place, where the request push
